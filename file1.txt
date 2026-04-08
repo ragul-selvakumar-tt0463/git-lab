@@ -1,2 +1,1 @@
-This is feature1 version
-bugfix version of file
+This is main version and remote version
